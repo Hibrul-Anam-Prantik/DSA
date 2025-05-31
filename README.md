@@ -1,2 +1,4 @@
 # DSA
- Practise and working with Data Structes and Algorithms 
+
+- LeetCode Problem Solving
+- Learning and Understanding Data Structures & Algorithms
