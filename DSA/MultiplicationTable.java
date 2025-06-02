@@ -1,3 +1,5 @@
+package DSA;
+
 public class MultiplicationTable {
     public static void main(String[] args) {
         int[] numbers = new int[] { 100, 20, 300, 40, 50 };
